@@ -8,5 +8,6 @@ connect to 0.0.0.0:8000
 
 
 This calculator is built using JS 
+
 The main purpose of the project is to train JS
 
